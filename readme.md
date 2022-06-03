@@ -3,7 +3,7 @@
 ### Running Project Locally 
 First clone the repository to your local
 ```bash
-git clone https://github.com/sreejan774/DeepfakeWebApp.git
+git clone https://github.com/Tarunkmr0023/DeepfakeWebapp.git
 ```
 Install the requirements:
 
